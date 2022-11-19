@@ -1,0 +1,3 @@
+# gitignore for whynet-preview
+#emacs editor files
+*~
